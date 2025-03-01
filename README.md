@@ -18,7 +18,6 @@ A modern and responsive **music streaming app** built with **Flutter** and **Dar
 1. Clone the repository:  
    ```sh
    git clone https://github.com/SHADOW5120/Simple-Music-App.git
-   cd music-streaming-app
    ```
 2. Install dependencies:  
    ```sh
