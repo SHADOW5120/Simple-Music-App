@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my_music
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Simple-Music-App
+A simple music app made with Flutter
+>>>>>>> f3351ef065f797bb80ed587d6331c507b4236b22
