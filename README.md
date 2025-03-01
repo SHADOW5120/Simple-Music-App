@@ -1,21 +1,36 @@
-<<<<<<< HEAD
-# my_music
+# 🎵 Music Streaming App  
 
-A new Flutter project.
+A modern and responsive **music streaming app** built with **Flutter** and **Dart**, utilizing **REST API** for fetching music data. The app provides a seamless experience for browsing, searching, and playing songs with a clean and user-friendly interface.  
 
-## Getting Started
+## 🚀 Technologies Used  
+- **Flutter & Dart** – Cross-platform mobile development  
+- **REST API** – Fetching real-time music data  
+- **Provider** – State management for efficient UI updates  
+- **HTTP Package** – Handling API requests  
 
-This project is a starting point for a Flutter application.
+## ✨ Features  
+- 🔍 **Browse & Search** – Explore and search for songs effortlessly  
+- 🎶 **Music Playback** – Play songs with a smooth and responsive UI  
+- 🔄 **Real-Time Data Fetching** – Fetch music data from a public API  
+- 🎨 **User-Friendly Design** – Clean, modern, and responsive interface  
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Installation  
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/SHADOW5120/Simple-Music-App.git
+   cd music-streaming-app
+   ```
+2. Install dependencies:  
+   ```sh
+   flutter pub get
+   ```
+3. Run the application:  
+   ```sh
+   flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 API Setup  
+1. Find a free public music API (e.g., Deezer, Last.fm, or any available source).  
+2. Replace the API URL in the project’s HTTP request functions.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Simple-Music-App
-A simple music app made with Flutter
->>>>>>> f3351ef065f797bb80ed587d6331c507b4236b22
+---
